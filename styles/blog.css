@@ -1,4 +1,6 @@
 div{
     background-color: tomato;
-    padd
+    padding: 10px;
+    margin-bottom: 10px;
+    /* text-justify: auto; */
 }
